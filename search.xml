@@ -27,7 +27,7 @@
       <link href="/2022/08/28/blog2/"/>
       <url>/2022/08/28/blog2/</url>
       
-        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>周日 睡到11点</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="周日-睡到11点"><a href="#周日-睡到11点" class="headerlink" title="周日 睡到11点"></a>周日 睡到11点</h3>]]></content>
       
       
       
@@ -46,7 +46,7 @@
       <link href="/2022/08/13/blog1/"/>
       <url>/2022/08/13/blog1/</url>
       
-        <content type="html"><![CDATA[<h2 id="周六-睡到11点-o-￣︶￣-o"><a href="#周六-睡到11点-o-￣︶￣-o" class="headerlink" title="周六 睡到11点,o(￣︶￣)o"></a>周六 睡到11点,o(<em>￣︶￣</em>)o</h2><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    print(input(<span class="string">&#x27;&#x27;).replace(&#x27;</span>吗<span class="string">&#x27;,&#x27;</span><span class="string">&#x27;).replace(&#x27;</span>？<span class="string">&#x27;,&#x27;</span>！<span class="string">&#x27;))</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h3 id="周六-睡到11点-o-￣︶￣-o"><a href="#周六-睡到11点-o-￣︶￣-o" class="headerlink" title="周六 睡到11点,o(￣︶￣)o"></a>周六 睡到11点,o(<em>￣︶￣</em>)o</h3><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="keyword">while</span> True:</span><br><span class="line">    print(input(<span class="string">&#x27;&#x27;).replace(&#x27;</span>吗<span class="string">&#x27;,&#x27;</span><span class="string">&#x27;).replace(&#x27;</span>？<span class="string">&#x27;,&#x27;</span>！<span class="string">&#x27;))</span></span><br></pre></td></tr></table></figure>]]></content>
       
       
       
@@ -65,7 +65,7 @@
       <link href="/2022/08/12/hello/"/>
       <url>/2022/08/12/hello/</url>
       
-        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>8&#x2F;12&#x2F;2022</p><h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><p>创建基于hexo的个人博客, hello hexo!</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="8-x2F-12-x2F-2022"><a href="#8-x2F-12-x2F-2022" class="headerlink" title="8&#x2F;12&#x2F;2022"></a>8&#x2F;12&#x2F;2022</h2><h3 id="创建基于hexo的个人博客-hello-hexo"><a href="#创建基于hexo的个人博客-hello-hexo" class="headerlink" title="创建基于hexo的个人博客, hello hexo!"></a>创建基于hexo的个人博客, hello hexo!</h3>]]></content>
       
       
       
